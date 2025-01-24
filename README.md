@@ -1,9 +1,34 @@
-### Hi, I'm Alex
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARCIKE&show_icons=true&theme=dark)](https://arcike.tk)
+<h3 align="center">[SKILLS.exe]</h3>
 
 
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ARCIKE/count.svg" />
-</p>
+
+<table align="center">
+
+<tr>
+
+<td valign="top">
+
+```diff
+# > Development_Stack
+@@-RcFHnPCaiL-@@
++ Frontend: React, TypeScript, Tailwind CSS
++ Backend: Node.js, Python, PHP
++ Databases: PostgreSQL, MongoDB, MySQL
++ DevOps: Docker, CI/CD, Cloud Platforms
+@@-eqevoDjvBU-@@
+```
+</td>
+
+<td valign="top">
+  
+```diff
+# > Security_Arsenal
+@@-PSNHMdkQRZ-@@
+- Web Security : Nuclei, Burp
+- Network : Wireshark
+@@-dLyvapspbP-@@
+```
+
+</td>
+</tr>
+</table>
