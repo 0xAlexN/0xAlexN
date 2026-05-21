@@ -1,7 +1,22 @@
-# 👋 Hi, I'm Alex (0xAlexN)
+# Hi, I'm Alex (0xAlexN)
 
-[![GitHub followers](https://img.shields.io/github/followers/0xAlexN?style=social)](https://github.com/0xAlexN)
-[![Hireable](https://img.shields.io/badge/Hireable-Yes-brightgreen)](https://github.com/0xAlexN)
-[![Website](https://img.shields.io/badge/Website-la.bzh-blue)](https://la.bzh)
+Cybersecurity engineering student at **ESIEA**, apprentice security architect at **Orange Cyberdefense**.
 
-I'm a **FullStack Developer** and **CTF Player** passionate about building innovative solutions and solving complex challenges. I love working on projects that combine creativity, technology, and problem-solving. Let's connect and create something amazing together!
+## Day job
+
+Building cloud-native security infrastructure: Kubernetes, Terraform module design at scale, container security.
+
+## Outside work
+
+- CTF player on the French scene — FCSC, 404 CTF, BreizhCTF, DGSE challenges
+- Challmaker for CTF (IUT Vannes SIXCTF)
+- Experimenting with LLM-augmented security audits via [@OpenAuditsBZH](https://github.com/OpenAuditsBZH) — pipeline forks public repos and uses Jules (Gemini) for code review
+- Authorized bug bounty research on YesWeHack programs
+
+## Stack
+
+`Python` · `Go` · `Terraform` · `Kubernetes` · `Ansible` · `FastAPI` · `Docker` · `PostgreSQL` · `Linux`
+
+---
+
+📍 Rennes, France · [LinkedIn](https://www.linkedin.com/in/alexandre-nade)
