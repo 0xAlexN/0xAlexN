@@ -9,7 +9,7 @@ Building cloud-native security infrastructure: Kubernetes, Terraform module desi
 ## Outside work
 
 - CTF player on the French scene — FCSC, 404 CTF, BreizhCTF, DGSE challenges
-- Challmaker for CTF (IUT Vannes SIXCTF)
+- Challmaker for SIXCTF (IUT Vannes)
 - Experimenting with LLM-augmented security audits via [@OpenAuditsBZH](https://github.com/OpenAuditsBZH) — pipeline forks public repos and uses Jules (Gemini) for code review
 - Authorized bug bounty research on YesWeHack programs
 
